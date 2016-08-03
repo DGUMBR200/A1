@@ -1,0 +1,34 @@
+﻿Build started 02/08/2016 18:05:25.
+     1>Project "C:\Users\Danny\documents\visual studio 2013\Projects\Paint By Grid\Paint By Grid\Paint By Grid.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Danny\documents\visual studio 2013\Projects\Paint By Grid\Debug\Paint By Grid.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Danny\documents\visual studio 2013\Projects\Paint By Grid\Debug\Paint By Grid.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Danny\documents\visual studio 2013\Projects\Paint By Grid\Debug\Paint By Grid.lib" /MACHINE:X86 Debug\cBkGround.obj
+         Debug\cButton.obj
+         Debug\cFileHandler.obj
+         Debug\cFont.obj
+         Debug\cFontMgr.obj
+         Debug\cInputMgr.obj
+         Debug\cSound.obj
+         Debug\cSoundMgr.obj
+         Debug\cSprite.obj
+         Debug\cTexture.obj
+         Debug\cTile.obj
+         Debug\cTileMap.obj
+         Debug\cTilePicker.obj
+         Debug\cWNDManager.obj
+         Debug\main.obj
+         Debug\mazeMaker.obj
+         Debug\windowOGL.obj
+         Libraries\DevIL.lib
+         Libraries\freeglut.lib
+         Libraries\ftgl.lib
+         Libraries\ILU.lib
+         Libraries\ILUT.lib
+         Paint By Grid.vcxproj -> C:\Users\Danny\documents\visual studio 2013\Projects\Paint By Grid\Debug\Paint By Grid.exe
+     1>Done Building Project "C:\Users\Danny\documents\visual studio 2013\Projects\Paint By Grid\Paint By Grid\Paint By Grid.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39
